@@ -1,8 +1,8 @@
-# audiobible-shmueloff-original
+# audiobible-verses-shmueloff-original
 
 Per-verse split of Abraham Shmueloff's original recordings, split from
-audiobible-shmueloff-source.
+audiobible-source-shmueloff.
 
 ## License
 
-- `audiobible-shmueloff-original` — no license claimed.
+- `audiobible-verses-shmueloff-original` — no license claimed.
