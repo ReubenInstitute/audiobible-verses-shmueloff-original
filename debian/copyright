@@ -1,0 +1,8 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: audiobible-verses-shmueloff-original
+Source: https://github.com/ReubenInstitute/audiobible-verses-shmueloff-original
+
+Files: *
+Copyright: 2026 Reuben Institute
+License: none
+ Abraham Shmueloff's original voice, split per verse. No license claimed.
